@@ -7,12 +7,12 @@ public class TwoDimensionalArray {
     public static void main(String[] args ) {
 
 
-        Scanner sc= new Scanner(System.in); //System.in is a standard input stream.
+        Scanner sc= new Scanner(System.in); //
         System.out.print("entrer un nombre ");
         int x = sc.nextInt();
 
 
-        Scanner sca= new Scanner(System.in); //System.in is a standard input stream.
+        Scanner sca= new Scanner(System.in); 
         System.out.print("entrer a number ");
         int y= sca.nextInt();
 
