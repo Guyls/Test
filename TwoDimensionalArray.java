@@ -7,7 +7,7 @@ public class TwoDimensionalArray {
     public static void main(String[] args ) {
 
 
-        Scanner sc= new Scanner(System.in); //
+        Scanner sc= new Scanner(System.in); 
         System.out.print("entrer un nombre ");
         int x = sc.nextInt();
 
