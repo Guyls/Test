@@ -1,4 +1,4 @@
-public class cat implements Animal{
+public class Cat implements Animal{
 
     @Override
     public void sound() {
