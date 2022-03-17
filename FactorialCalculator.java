@@ -5,7 +5,7 @@ import java.util.*;
 class FactorialCalculator {
     public static void main(String args[]) {
         int i, fact = 1;
-        Scanner sc= new Scanner(System.in); //System.in is a standard input stream.
+        Scanner sc= new Scanner(System.in); 
         System.out.print("Entrer un nombre");
         int number= sc.nextInt();
 
